@@ -49,6 +49,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanCharlesss&theme=holi&show_icons=true" />
 </a>
 
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCharlesss&hide=html&layout=compact&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
