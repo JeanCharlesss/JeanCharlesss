@@ -54,5 +54,5 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: JeanCharlesss](https://img.shields.io/badge/-JeanCharlesss-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeancharlesss/)](https://www.linkedin.com/in/jeancharlesss/)
-[![Discord](https://img.shields.io/badge/-JeanCharlesss-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/350637045041070080)
+[![Discord](https://img.shields.io/badge/-tekhamx64-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/350637045041070080)
 [![GitHub JeanCharlesss](https://img.shields.io/github/followers/JeanCharlesss?label=follow&style=social)](https://github.com/JeanCharlesss/)
