@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em **Desenvolvimento de Sistema** na <a href="https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes">ETEC - Guaianazes</a>.
