@@ -35,7 +35,6 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=007ACC)
   ![Mongo Shell](https://img.shields.io/badge/-Mongo%20Shell-333333?style=flat&logo=mongodb&logoColor=47A248)
   ![XAMPP](https://img.shields.io/badge/-XAMPP-333333?style=flat&logo=xampp&logoColor=FB7A24)
   ![Dev-C++](https://img.shields.io/badge/-Dev--C%2B%2B-333333?style=flat&logo=dev-c%2B%2B&logoColor=33AADD)
